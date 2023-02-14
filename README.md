@@ -30,10 +30,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Preguntas:
 
 ## Define que es un componente y al crearlo que elementos lo forman.
-Es un fragmento o parte de codigo que ejecuta un proceso o accion.
+Es un fragmento o parte de codigo que ejecuta un proceso o accion incluye los metodos y propiedades a utilizar.
+ 
 
 ## Define que es un módulo y que función tiene el patrón de diseño decorator.
-Es un bloque  de  codigo dirigido especialmente para realizar alguna accion, incluye los metodos y propiedades a utilizar.
+Es un bloque  de  codigo dirigido especialmente para realizar alguna accion, Se conforma por archiovos HTML , CSS y TypeScriptincluye. 
+El patron decorador nos permite no tener que crear sucesivas clases que hereden de la primera incorporando la nueva funcionalidad
 
 ## Menciona y describe los elementos importantes de un @NgModule.
 Es La bibliotecas de Angular son NgModules, como FormsModule, HttpClientModule, and RouterModule
