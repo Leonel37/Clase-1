@@ -34,7 +34,7 @@ Es un fragmento o parte de codigo que ejecuta un proceso o accion incluye los me
  
 
 ## Define que es un módulo y que función tiene el patrón de diseño decorator.
-Es un bloque  de  codigo dirigido especialmente para realizar alguna accion, Se conforma por archiovos HTML , CSS y TypeScript incluye. 
+Es un bloque  de  codigo dirigido especialmente para realizar alguna accion, Se conforma por archiovos HTML , CSS y TypeScript. 
 El patron decorador nos permite no tener que crear sucesivas clases que hereden de la primera incorporando la nueva funcionalidad
 
 ## Menciona y describe los elementos importantes de un @NgModule.
