@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Preguntas:
+
+## Define que es un componente y al crearlo que elementos lo forman.
+Es un fragmento o parte de codigo que ejecuta un proceso o accion.
+
+## Define que es un módulo y que función tiene el patrón de diseño decorator.
+Es un bloque  de  codigo dirigido especialmente para realizar alguna accion, incluye los metodos y propiedades a utilizar.
+
+## Menciona y describe los elementos importantes de un @NgModule.
+Es La bibliotecas de Angular son NgModules, como FormsModule, HttpClientModule, and RouterModule
